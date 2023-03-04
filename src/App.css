@@ -24,15 +24,16 @@
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.counters{
+  display: flex;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+button{
+  padding: 12px;
+  margin: 6px;
+  font-size: large;
+  font-weight: bolder;
+  background-color: aquamarine;
+  border: none;
+  border-radius: 12px;
 }
